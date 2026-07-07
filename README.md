@@ -54,7 +54,7 @@ Toggle tuck on in both. **Without them, pressing Ctrl does nothing — that's no
 
 The core is **free forever**: Full screen / 2 / 3 / 4 panes and all their variants.
 
-Denser layouts (5-pane, 6-pane and beyond) are an optional one-time Pro unlock — yours to keep (coming soon).
+Denser layouts (5-pane, 6-pane and beyond) are an optional one-time Pro unlock — yours to keep.
 
 ## Privacy
 
